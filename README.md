@@ -17,12 +17,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](/2-Qr-code-component/images/design/Screenshot%20-%20Frontend%20Mentor%20QR%20code%20component.png)
+![QR Code Component](https://github.com/Dejmian11/2-Qr-code-component/blob/master/images/design/Screenshot%20-%20Frontend%20Mentor%20QR%20code%20component.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/qr-code-component-_vEEQkao96)
+- Live Site URL: [Live](https://comfy-gumption-6aa866.netlify.app/)
 
 ## My process
 
@@ -36,4 +36,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [Dejmian11](https://www.frontendmentor.io/profile/Dejmian11)
