@@ -1,26 +1,27 @@
 @use 'base.scss' as *;
 
 .qr-code {
-  --content-padding: .9rem;
-  --content-spacing: 1.25rem;
-  --border-radius: 1rem;
+	--content-padding: 0.9rem;
+	--content-spacing: 1.25rem;
+	--border-radius: 1rem;
 
-  display: grid;
-  gap: var(--content-spacing);
-  max-width: 300px;
-  padding: var(--content-padding);
-  padding-bottom: 2rem;
-  border-radius: var(--border-radius);
-  background-color: var(--clr-neutral-900);
-  text-align: center;
+	display: grid;
+	gap: var(--content-spacing);
+	max-width: 300px;
+	padding: var(--content-padding);
+	padding-bottom: 2.2rem;
+	border-radius: var(--border-radius);
+	background-color: var(--clr-neutral-900);
+	text-align: center;
+	box-shadow: 0 1em 10em -2em var(--clr-primary-600);
 
-  &__img {
-    border-radius: calc(var(--border-radius) / 2);
-  }
+	&__img {
+		border-radius: calc(var(--border-radius) / 2);
+	}
 
-  &__content {
-    display: grid;
-    gap: var(--content-padding);
-    padding-inline: .75rem;
-  }
+	&__content {
+		display: grid;
+		gap: var(--content-padding);
+		padding-inline: 0.75rem;
+	}
 }
